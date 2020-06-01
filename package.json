@@ -9,10 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "skyway-js": "^3.0.0"
-  },
-  "devDependencies": {
-    "dotenv": "^8.2.0"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
